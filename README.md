@@ -41,9 +41,14 @@ Execute
 
   Use github pages or netlify  for deployment
 
-## Pattern 
+## How to contribute
 
   - [Contributor Covenant](https://www.contributor-covenant.org/) 
+  - Clone the repository
+  - Create a feature branch
+  - Add you feature
+  - Open PR (Pull request) with develop branch
+
  
 ## Author
 
