@@ -34,7 +34,7 @@ body {
 
 .card img {
     margin-bottom: .5rem;
-    width: 75px;
+    width: 7rem;
     border-radius: 50%;
 }
 
@@ -67,5 +67,5 @@ body {
 
 .card ul li a:hover {
     background-color: var(--primary-green);
-    color: var(--neutral-off-black);
+    transition-duration: var(--neutral-off-black);
 }
