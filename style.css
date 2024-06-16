@@ -67,5 +67,6 @@ body {
 
 .card ul li a:hover {
     background-color: var(--primary-green);
-    transition-duration: var(--neutral-off-black);
+    color: var(--neutral-dark-grey);
+    transition: 0.80s;
 }
