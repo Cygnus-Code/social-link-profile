@@ -27,7 +27,7 @@ body {
     color: var(--neutral-white);
     padding: 2rem;
     margin: 1rem;
-    max-width: 400px;
+    max-width: 25rem;
     text-align: center;
     border-radius: .75rem;
 }
@@ -68,5 +68,5 @@ body {
 .card ul li a:hover {
     background-color: var(--primary-green);
     color: var(--neutral-dark-grey);
-    transition: 0.80s;
+    transition: 0.8s;
 }
