@@ -10,7 +10,7 @@
 
 
 <h1 align="center">
-  <img alt="Social link profile ui" height=70%" width="100%" title="Template" src="./src/asset/img/ui-social-link-profile.webp" />
+  <img alt="Social link profile ui" height=70%" width="100%" title="Template" src="./public/ui-social-link-profile.webp" />
 </h1> 
 
 ## Summary
