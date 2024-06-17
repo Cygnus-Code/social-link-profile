@@ -27,14 +27,22 @@ body {
     color: var(--neutral-white);
     padding: 2rem;
     margin: 1rem;
+<<<<<<< HEAD:style/index.css
     max-width: 25rem;
+=======
+    max-width: 400rem;
+>>>>>>> b0d4b9028e629c4b0c8b2d43ace9dca0ce50ad81:style.css
     text-align: center;
     border-radius: .75rem;
 }
 
 .card img {
     margin-bottom: .5rem;
+<<<<<<< HEAD:style/index.css
     width: 7rem;
+=======
+    width: 75rem;
+>>>>>>> b0d4b9028e629c4b0c8b2d43ace9dca0ce50ad81:style.css
     border-radius: 50%;
 }
 
